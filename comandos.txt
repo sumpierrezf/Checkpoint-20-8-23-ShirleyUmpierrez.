@@ -1,0 +1,47 @@
+ 216  mkdir checkpoint
+  217  cd checkpoint
+  218  git init
+  219  git remote add origin https://github.com/sumpierrezf/Checkpoint-20-8-23-ShirleyUmpierrez..git
+  220  git remote -v
+  221  git branch -M main
+  222  ls
+  223  touch index.html
+  224  touch main.js
+  225  ls
+  226  git add.
+  227  git add .
+  228  git commit -m "commit 01 de shirleyUmpierrez"
+  229  git push origin main
+  230  git branch feature
+  231  git checkout feature
+  232  mkdir Hardware
+  233  mkdir Software
+  234  mkdir SeguridadInformatica
+  235  ls
+  236  cd Hardware
+  237  touch resumen.txt
+  238  cd.
+  239  cd .
+  240  cd ..
+  241  cd Software
+  242  touch resumen.txt
+  243  cd ..
+  244  cd SeguridadInformatica
+  245  touch resumen.txt
+  246  ls
+  247  cd ..
+  248  ls
+  249  git add .
+  250  git commit -m "commit 02 de shirleyUmpierrez"
+  251  git push origin feature
+  252  git checkout main
+  253  git mv main.js resumenHardware.txt
+  254  ls
+  255  git mv index.html resumenSoftware.txt
+  256  ls
+  257  code resumenSoftware.txt
+  258  code resumenHardware.txt
+  259  git add .
+  260  git commit -m "commit 03 de shirleyUmpierrez"
+  261  git push origin main
+  262  touch comandos.txt
