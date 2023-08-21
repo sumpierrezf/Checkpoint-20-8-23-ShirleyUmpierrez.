@@ -1,0 +1,4 @@
+Listar tres ejemplos de software:
+1- navegador web: google,
+2-sistema operativo: windows;
+3-paquetes de ofimatica: microsoft office.
